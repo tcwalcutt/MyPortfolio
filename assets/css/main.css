@@ -4299,7 +4299,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#footer {
-				display: block;
+				display: table-cell;
 			}
 
 				#footer > section {
@@ -4482,7 +4482,6 @@ input, select, textarea {
 				}
 
 		}
-
 /* Nav Panel */
 
 	#navPanelToggle {
